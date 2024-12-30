@@ -93,3 +93,66 @@ export const plans = [
     logo: "/images/plan-3.png",
   },
 ];
+
+export const faq = [
+  {
+    id: "0",
+    question: "¿Qué tan fácil es configurar Xora?",
+    answer:
+      "¡Por supuesto! No solo puedes actualizar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te permite aprovechar al máximo tu suscripción.",
+  },
+  {
+    id: "1",
+    question: "¿Puedo integrar Xora con otras plataformas?",
+    answer:
+      "¡Por supuesto! No solo puedes actualizar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te permite aprovechar al máximo tu suscripción.",
+  },
+  {
+    id: "2",
+    question: "¿Con qué frecuencia agregas contenido nuevo?",
+    answer:
+      "¡Por supuesto! No solo puedes actualizar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te permite aprovechar al máximo tu suscripción.",
+  },
+  {
+    id: "3",
+    question: "¿Cuál es su política de reembolso?",
+    answer:
+      "¡Por supuesto! No solo puedes actualizar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te permite aprovechar al máximo tu suscripción.",
+  },
+  {
+    id: "4",
+    question: "¿Tiene planes corporativos?",
+    answer:
+      "¡Por supuesto! No solo puedes actualizar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te permite aprovechar al máximo tu suscripción.",
+  },
+  {
+    id: "5",
+    question: "¿Qué pasa cuando me quedo sin espacio de almacenamiento?",
+    answer:
+      "¡Por supuesto! No solo puedes actualizar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te permite aprovechar al máximo tu suscripción.",
+  },
+  {
+    id: "6",
+    question: "¿Como puedo actualizar mi plan actual?",
+    answer:
+      "¡Por supuesto! No solo puedes actualizar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te permite aprovechar al máximo tu suscripción.",
+  },
+  {
+    id: "7",
+    question: "¿Como puedo invitar a mi equipo?",
+    answer:
+      "¡Por supuesto! No solo puedes actualizar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te permite aprovechar al máximo tu suscripción.",
+  },
+  {
+    id: "8",
+    question: "¿Ofrecen formación para individuos y equipos?",
+    answer:
+      "¡Por supuesto! No solo puedes actualizar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te permite aprovechar al máximo tu suscripción.",
+  },
+  {
+    id: "9",
+    question: "Estoy bloqueado en mi cuenta ¿qué hago?",
+    answer:
+      "¡Por supuesto! No solo puedes actualizar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te permite aprovechar al máximo tu suscripción.",
+  },
+];
