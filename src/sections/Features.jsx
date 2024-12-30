@@ -4,7 +4,7 @@ import Button from "../components/Button";
 function Features() {
   return (
     <section>
-      <Element name="features">
+      <Element name="características">
         <div className="container">
           <div className="relative flex md:flex-wrap flex-nowrap border-2 border-s3 rounded-7xl md:overflow-hidden max-md:flex-col feature-after md:g7 max-md:border-none max-md:rounded-none max-md:gap-3">
           {features.map(({ id, icon, caption, title, text, button }) => (
