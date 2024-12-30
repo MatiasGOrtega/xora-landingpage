@@ -22,8 +22,7 @@ function Download() {
               </div>
 
               <p className="body-1 mb-10 max-w-md">
-                Try it now for free on iOS, Android, PC, Web - whatever your
-                flavor, weve got you covered.
+                Pruébelo ahora gratis en iOS, Android, PC, Web: sea cual sea su gusto, lo tenemos cubierto.
               </p>
 
               <ul className="flex flex-wrap items-center gap-6">
