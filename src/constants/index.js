@@ -45,3 +45,51 @@ export const details = [
     title: "ATENCION AL CLIENTE 24 / 7",
   },
 ];
+
+export const plans = [
+  {
+    id: "0",
+    title: "Basico",
+    priceMonthly: 19,
+    priceYearly: 12,
+    caption: "Lo mejor solo para creadores",
+    features: [
+      "100MB almacenamiento en la nube",
+      "100+ Plantillas",
+      "5 Proyectos",
+      "Soporte 24/7",
+    ],
+    icon: "/images/circle.svg",
+    logo: "/images/plan-1.png",
+  },
+  {
+    id: "1",
+    title: "PRO",
+    priceMonthly: 79,
+    priceYearly: 59,
+    caption: "Plan mas popular",
+    features: [
+      "Todas las funciones",
+      "1TB alamcenamiento adicional",
+      "Proyectos ilimitados",
+      "Analisis",
+    ],
+    icon: "/images/triangle.svg",
+    logo: "/images/plan-2.png",
+  },
+  {
+    id: "2",
+    title: "Equipos",
+    priceMonthly: 39,
+    priceYearly: 29,
+    caption: "Exclusivo para equipos",
+    features: [
+      "Todas las funciones",
+      "10TB alamcenamiento adicional",
+      "50% de descuento por miembro",
+      "Colaboracion en tiempo real",
+    ],
+    icon: "/images/hexagon.svg",
+    logo: "/images/plan-3.png",
+  },
+];
