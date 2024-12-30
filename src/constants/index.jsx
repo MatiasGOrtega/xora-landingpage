@@ -164,7 +164,7 @@ export const testimonials = [
     role: "Globalnomads",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "¡La atención al cliente de Xora es inigualable! Son como mis superhéroes tecnológicos, siempre están ahí cuando los necesito.",
   },
   {
     id: "1",
@@ -172,7 +172,7 @@ export const testimonials = [
     role: "Vid capital intl",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
-      "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
+      "Al principio era escéptico, pero ahora no puedo imaginar nuestras operaciones de contenido sin él. Es así de impactante.",
   },
   {
     id: "2",
@@ -180,7 +180,7 @@ export const testimonials = [
     role: "Cyberleap",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
-      "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
+      "Adoptar este software fue muy fácil. Ha simplificado muchísimo las tareas cotidianas.",
   },
   {
     id: "3",
@@ -188,7 +188,7 @@ export const testimonials = [
     role: "Cyberleap",
     avatarUrl: "/images/testimonials/alicia-barker.png",
     comment:
-      "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
+      "La función de análisis es como tener un adivino personal. Ha sido fundamental para orientar nuestras decisiones comerciales.",
   },
   {
     id: "4",
@@ -196,7 +196,7 @@ export const testimonials = [
     role: "Floclips",
     avatarUrl: "/images/testimonials/becky-snider.png",
     comment:
-      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
+      "Me pasé a Xora el mes pasado y ya estoy viendo resultados. ¡La mejor decisión para nuestro equipo!",
   },
   {
     id: "5",
@@ -204,7 +204,7 @@ export const testimonials = [
     role: "Vid capital intl",
     avatarUrl: "/images/testimonials/jim-bradley.png",
     comment:
-      "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
+      "El aumento de la eficiencia es innegable. Esta plataforma ha transformado nuestro flujo de trabajo para siempre.",
   },
 ];
 
